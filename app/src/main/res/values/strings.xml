@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">CMPS121-Mafia</string>
+    <string name="title_activity_main_menu">MainMenu</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_single_phone_menu">SinglePhoneMenu</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_rules">Rules</string>
 </resources>
